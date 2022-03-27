@@ -106,7 +106,7 @@ header h1 {
 /* Main Picture Section */
 
 .background-container {
-    background-image: url("./Resources/Images/1-Background-main-picture.jpg");
+    background-image: url("../Images/1-Background-main-picture.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;  
@@ -206,7 +206,7 @@ h2 {
 }
 
 #pajero {
-    background-image: url("./Resources/Images/Pajero.JPG");
+    background-image: url("../Images/Pajero.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -215,7 +215,7 @@ h2 {
 }
 
 #patrol {
-    background-image: url("./Resources/Images/Patrol.jpg");
+    background-image: url("../Images/Patrol.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
