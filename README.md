@@ -24,5 +24,5 @@ This website was built on HTML and CSS using Visual Code Studio.
 
 Thank you for taking the time to check my project :)
 
-<a href="https://mateusmotter.github.io">4WD Exp</a>
+<a href="https://mateusmotter.github.io" target="_blank">4WD Exp</a>
 
